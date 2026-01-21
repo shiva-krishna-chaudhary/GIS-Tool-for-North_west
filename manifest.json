@@ -1,6 +1,6 @@
 {
-  "name": "Live GIS Tracker",
-  "short_name": "GIS Tracker",
+  "name": "भौगोलिकको GIS Tool",
+  "short_name": "भौगोलिक GIS",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -8,14 +8,15 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "appstore.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "playstore.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
 }
+
